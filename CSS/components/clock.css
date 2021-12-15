@@ -1,0 +1,50 @@
+.clock {
+display: inline-block;
+width: 100%;
+color: whitesmoke;
+font-family: cursive;
+}
+
+
+.clock > .time {
+    display: inline-block;
+    width: 25%;
+    float: left;
+    text-align: center;
+    margin: 15px 0;
+}    
+
+
+.clock > .time > .value {
+    display: inline-block;
+    width: 100%;
+    font-size: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.clock > .time > .title {
+    display: inline-block;
+    width: 100%;
+    text-transform: uppercase;
+
+
+}
+
+@media (max-width: 480px) {
+.clock > .time {
+
+    width: 50%;
+}
+
+
+}
+
+
+
+
+
+
+
+
