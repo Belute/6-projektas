@@ -3,45 +3,25 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# coming-soon
+# Coming soon
 
 _32 group website project_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/32-grupe-serlokas/
+Site published at: https://front-end-by-rimantas.github.io/32-grupe-coming-soon/
 
-Design: [coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
+Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
 
 ## Project features
 
+-   responsive design
 -   Github pages
--   CSS
--   Image
+-   FontAwesome icons
+-   HTML form
+-   CSS animation
+-   CSS background images
 
 ## Authors
 
 Rimantas: [Github](https://github.com/belauzas)
-
-## Code sample
-
-```html
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Serlokas</title>
-</head>
-```
-
-```css
-.class {
-    background-color: red;
-}
-```
-
-```js
-function sum(a, b) {
-    return a + b;
-}
-```
