@@ -21,4 +21,4 @@ Site published at: https://belute.github.io/Coming_Soon_html_css/
 
 ## Authors
 
-Justinas: [Github](https://github.com/belauzas)
+Justinas: https://github.com/Belute
